@@ -1,0 +1,30 @@
+
+
+#openFileButton{
+    -fx-background-image: url("../videoplayerimages/folder.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-color: transparent;
+}
+#playButton{
+    -fx-background-image: url("../videoplayerimages/play.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-color: transparent;
+}
+#pauseButton{
+    -fx-background-image: url("../videoplayerimages/pause-button.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-color: transparent;
+}
+#stopButton{
+    -fx-background-image: url("../videoplayerimages/stop-button.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-color: transparent;
+}
